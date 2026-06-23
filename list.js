@@ -31,8 +31,8 @@ const levels = [
 ];
 const tiers = [
 	// list tiers were simplified in this version until there's more levels
-	[0, 'Main List'],
-	[51, 'Extended List'],
+	[0, 'The Summit'],
+	[7, 'Epic Tier'],
 	[101, 'Legacy List'],
 ];
 const difficultyLevels = ['Non-Demon Level', 'Easy Demon', 'Medium Demon', 'Hard Demon', 'Insane Demon', 'Extreme Demon', 'Challenge', 'Impossible'];
