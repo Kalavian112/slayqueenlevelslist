@@ -20,6 +20,7 @@ const levels = [
 	['pride','shrympo','70476012', 1],
 	['Femboy Gang','xm1x', '97928486', 22],
 	['EstrofemTransventure','Kalavian','120486509', 17],
+	['Trans Acu','solstacoded', '80142751', 29],
 	['RAINBOW GIRL','LLoom','103062165', 5],
 	['Catboy Demon','PPPixel', 'Unreleased', 21],
 	['thespikeisoverthere','BranSilver', '58977211', 0],
