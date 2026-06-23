@@ -8,9 +8,9 @@ const levels = [
 	// many levels deemed unlistworthy were removed from this version
 	['Dysphoria','IceboxOG','81413188', 4],
 	['SLAY MOMENT', 'RafaBirds', '118366680', 5],
-	['Transclysm','Sinneslochen','116804015', 12],
 	['Pride','Sakura','62444479', 2],
 	['The Perfect Girl','Kapelli', '91530507', 21],
+	['Transclysm','Sinneslochen','116804015', 12],
 	['prIde','DubbyBall', '93233103', 0],
 	['Femboy Circles','Skeletonette, Akirameru','130633756', 29],
 	['Femboy Fantasy','Sensawa','71798659', 21],
