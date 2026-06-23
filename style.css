@@ -1,0 +1,116 @@
+* {
+	box-sizing: border-box;
+}
+body {
+	width: 100vw;
+	height: 100vh;
+	margin: 0;
+	color: #f0f0f0;
+	background-color: #202020;
+	font-family: 'URW Gothic', sans-serif;
+}
+#list-container {
+	width: 50vw;
+	margin: 40px auto;
+	padding: 40px;
+	background-color: #242424;
+}
+#list-title {
+	font-weight: bold;
+	font-size: 40px;
+	margin-top: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+#list-subtitle {
+	width: 80%;
+	color: #b0b0b0;
+	font-size: 24px;
+	margin: 20px auto;
+	text-align: center;
+}
+#list-levels {
+	margin: 50px 0;
+}
+#bottom-notice {
+	color: #b0b0b0;
+	font-size: 16px;
+	text-align: center;
+}
+.level-container {
+	border-width: 2px;
+	border-color: #363636;
+	border-style: solid;
+	margin: 20px 0;
+	padding: 20px;
+}
+.level-title {
+	display: block;
+	font-size: 32px;
+	margin-bottom: 16px;
+	color: #f0f0f0;
+	font-style: normal;
+	text-decoration: none;
+}
+.level-info {
+	display: block;
+	font-size: 22px;
+}
+.level-sub {
+	display: block;
+	font-size: 18px;
+	margin-top: 12px;
+	color: #b0b0b0;
+}
+.slayqueen-tier {
+	display: block;
+	font-size: 32px;
+	margin: 24px;
+	color: #f0f0f0;
+	padding: 16px;
+	border-width: 2px;
+	border-color: #363636;
+	border-style: solid;
+	font-weight: normal;
+	text-align: center;
+}
+.level-tags {
+	margin: 4px;
+	margin-top: 14px;
+	height: 20px;
+}
+.level-tag {
+	float: left;
+	background-color: #404048;
+	padding: 4px;
+	border-radius: 4px;
+	margin-right: 8px;
+}
+@media screen and (max-width: 1200px){
+	#list-container {
+		width: 75vw;
+	}
+}
+@media screen and (max-width: 960px){
+	#list-container {
+		width: 96vw;
+		margin: 10px auto;
+		padding: 20px;
+	}
+	#list-title {
+		font-size: 36px;
+	}
+	#list-subtitle {
+		font-size: 20px;
+		margin: 10px 0;
+	}
+	#list-levels {
+		margin: 20px 0;
+	}
+	.level-title {
+		font-size: 24px;
+	}
+	.level-info {
+		font-size: 20px;
+	}
+}
