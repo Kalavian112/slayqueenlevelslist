@@ -76,8 +76,11 @@ function getOtherTags(level){
 	if(levels[level][3]&8){
 		otherTags += '<span class="level-tag">Remake</span>';
 	}
-	if(levels[level][3]>=16){
-		return otherTags + '<span class="level-tag">Unrated</span>';
+	if(levels[level][3]&16){
+		return otherTags += '<span class="level-tag">Unrated</span>';
+	}
+	if(levels[level][3]>=32){
+		return otherTags + '<span class="level-tag">Platformer</span>';
 	}
 	return otherTags;
 }
