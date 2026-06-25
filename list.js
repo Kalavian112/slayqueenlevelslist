@@ -28,9 +28,9 @@ const levels = [
 	['Catboy Demon','PPPixel', 'Unreleased', 21],
 	['thespikeisoverthere','BranSilver', '58977211', 0],
 	['Cute Girl Feelings','AngelEffect', '109289651', 23],
+	['Femboy Friday','Narkify','86414534', 21],
 	['Gender Chamber','Kalavian', 'Unreleased', 30],
 	['BUNNYGIRLAUBREY', 'Aeqing1 & Illuminati65', '95653592', 23],
-	['Femboy Friday','Narkify','86414534', 21],
 	['Tower of Femboy','ImLaxris', '93365782', 23],
 	['Woke Circles', 'PPPixel', '88318424', 29],
 ];
@@ -38,7 +38,10 @@ const tiers = [
 	// list tiers were simplified in this version until there's more levels
 	[0, 'The Summit'],
 	[7, 'Epic Tier'],
-	[101, 'Legacy List'],
+	[18, 'Chill Tier'],
+	[32, 'UwU Tier'],
+	[50, 'Legacy List'],
+	[1000, ''] // gotta have this otherwise it'll break
 ];
 const difficultyLevels = ['Non-Demon Level', 'Easy Demon', 'Medium Demon', 'Hard Demon', 'Insane Demon', 'Extreme Demon', 'Challenge', 'Impossible'];
 // list generation
