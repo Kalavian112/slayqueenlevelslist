@@ -16,6 +16,7 @@ const levels = [
 	['Femboy Circles','Skeletonette, Akirameru','130633756', 29],
 	['Femboy Fantasy','Sensawa','71798659', 21],
 	['project girlboss','koko43','110769842', 5],
+	['Cat Planet','IcEDCave', '84766628', 5],
 	['pride','shrympo','70476012', 1],
 	['Dysphoria', 'Hychie', '70639047', 0],
 	['prIde','DubbyBall', '93233103', 0],
