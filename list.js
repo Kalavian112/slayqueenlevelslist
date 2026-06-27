@@ -17,6 +17,7 @@ const levels = [
 	['Femboy Fantasy','Sensawa','71798659', 21],
 	['project girlboss','koko43','110769842', 5],
 	['pride','shrympo','70476012', 1],
+	['girl perspective','rinad2023', '114499467', 0],
 	['Femboy Gang','xm1x', '97928486', 22],
 	['Dysphoria', 'Hychie', '70639047', 0],
 	['meow hard','meowdead*', '111862459', 5],
