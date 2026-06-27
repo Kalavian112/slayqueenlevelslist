@@ -15,6 +15,7 @@ const levels = [
 	['priDEMONth','tricipital','91677667', 0],
 	['Femboy Circles','Skeletonette, Akirameru','130633756', 29],
 	['Femboy Fantasy','Sensawa','71798659', 21],
+	['GIRLTRON 3000','BridgetTheCroco', '79037527', 0],
 	['project girlboss','koko43','110769842', 5],
 	['pride','shrympo','70476012', 1],
 	['girl perspective','rinad2023', '114499467', 0],
