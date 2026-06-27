@@ -18,6 +18,7 @@ const levels = [
 	['GIRLTRON 3000','BridgetTheCroco', '79037527', 0],
 	['project girlboss','koko43','110769842', 5],
 	['pride','shrympo','70476012', 1],
+	['Cat Girl', 'Choplox', '108526412', 0],
 	['girl perspective','rinad2023', '114499467', 0],
 	['EstrofemTransventure', 'Kalavian', '120486509', 17],
 	['Femboy Gang','xm1x', '97928486', 22],
