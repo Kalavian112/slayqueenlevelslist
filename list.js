@@ -19,6 +19,7 @@ const levels = [
 	['pride','shrympo','70476012', 1],
 	['Femboy Gang','xm1x', '97928486', 22],
 	['Dysphoria', 'Hychie', '70639047', 0],
+	['meow hard','meowdead*', '111862459', 5],
 	['prIde','DubbyBall', '93233103', 0],
 	['Cat Planet','IcEDCave', '84766628', 5],
 	['EstrofemTransventure', 'Kalavian', '120486509', 17],
