@@ -22,6 +22,7 @@ const levels = [
 	['girl perspective','rinad2023', '114499467', 0],
 	['EstrofemTransventure', 'Kalavian', '120486509', 17],
 	['Femboy Gang','xm1x', '97928486', 22],
+	['slay total', 'rafabirds', '113003780', 0],
 	['Dysphoria', 'Hychie', '70639047', 0],
 	['meow hard','meowdead*', '111862459', 5],
 	['prIde','DubbyBall', '93233103', 0],
