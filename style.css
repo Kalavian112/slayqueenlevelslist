@@ -114,3 +114,12 @@ body {
 		font-size: 20px;
 	}
 }
+@media screen and (max-width: 400px){
+	#list-title {
+		font-size: 30px;
+	}
+	#list-subtitle {
+		font-size: 16px;
+		width: 100%;
+	}
+}
