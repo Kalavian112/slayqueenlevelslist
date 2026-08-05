@@ -25,6 +25,7 @@ const levels = [
 	['EstrofemTransventure', 'Kalavian', '120486509', 49],
 	['Femboy Gang','xm1x', '97928486', 22],
 	['slay total', 'rafabirds', '113003780', 0],
+	['ESTROGENOCIDE','DemonGirlfriend, Skyyee', '112596651', 47],
 	['Dysphoria', 'Hychie', '70639047', 32],
 	['meow hard','meowdead*', '111862459', 5],
 	['prIde','DubbyBall', '93233103', 32],
