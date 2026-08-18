@@ -32,6 +32,7 @@ const levels = [
 	['prIde','DubbyBall', '93233103', 32],
 	['Cat Planet','IcEDCave', '84766628', 5],
 	['Cute Girl Feelings','AngelEffect', '109289651', 23],
+	['femboy challenge', 'DrCuber', '66121919', 54],
 	['transide', 'qalli', '106758929', 104],
 	['Trans Acu','solstacoded', '80142751', 61],
 	['ESTROGENOCIDE','DemonGirlfriend, Skyyee', '112596651', 47],
