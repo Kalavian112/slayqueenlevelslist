@@ -27,6 +27,7 @@ const levels = [
 	['Femboy Gang','xm1x', '97928486', 22],
 	['slay total', 'rafabirds', '113003780', 0],
 	['Dysphoria', 'Hychie', '70639047', 32],
+	['Femboy Vortex', 'Ziriksi', '65392774', 48],
 	['meow hard','meowdead*', '111862459', 5],
 	['prIde','DubbyBall', '93233103', 32],
 	['Cat Planet','IcEDCave', '84766628', 5],
