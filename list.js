@@ -37,6 +37,7 @@ const levels = [
 	['Gender Chamber','Kalavian', 'Unreleased', 62],
 	['RAINBOW GIRL','LLoom','103062165', 5],
 	['Catboy Demon','PPPixel', 'Unreleased', 21],
+	['5 seconds trans', 'charlttte', '76162005', 54],
 	['KOTEKclubHOUSE','Skyyee', '112596651', 39],
 	['thespikeisoverthere','BranSilver', '58977211', 32],
 	['Femboy Friday','Narkify','86414534', 21],
