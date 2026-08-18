@@ -12,6 +12,7 @@ const levels = [
 	['Pride','Sakura','62444479', 34],
 	['The Perfect Girl','Kapelli', '91530507', 21],
 	['Storming Summit','Nimbus','76653933', 37],
+	['be trans throw hands','BridgetTheCroco','106206647', 48],
 	['Transclysm','Sinneslochen','116804015', 60],
 	['pride level','qjivxn', '70719847', 32],
 	['priDEMONth','tricipital','91677667', 32],
@@ -40,7 +41,7 @@ const levels = [
 	['thespikeisoverthere','BranSilver', '58977211', 32],
 	['Femboy Friday','Narkify','86414534', 21],
 	['BUNNYGIRLAUBREY', 'Aeqing1 & Illuminati65', '95653592', 23],
-	['Transgendergeist','Tucosifo','144439258', 76],
+	['Transgendergeist','Tucosifo','144439258', 60],
 	['Tower of Femboy','ImLaxris', '93365782', 23],
 	['Woke Circles', 'PPPixel', '88318424', 61],
 ];
